@@ -25,7 +25,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #fff;
 }
 
@@ -43,6 +43,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: blue;
 }
 
 img {
@@ -52,7 +53,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: medium;
 }
 
 a {
